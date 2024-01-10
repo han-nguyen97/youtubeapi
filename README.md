@@ -8,7 +8,7 @@
    - Does the uploading time affect the number of views?
 - Applying appropriate types of charts to compare and form the conclusions
 
-# Methods
+# Method
 1. Collect video metadata via Youtube API for the top 10 channels in fitness  (this includes several small steps: create a developer key, request data and transform the responses into a usable data format)
 2. Prepocess data and engineer additional features for analysis
 3. Exploratory data analysis
