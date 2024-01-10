@@ -15,7 +15,10 @@
 4. Conclusions
 
 # Result
-- **There is a correlation between the number of views and the number of interactions** (likes and comments). 
+![image](https://github.com/han-nguyen97/youtubeapi/assets/83593831/7d34c197-bf35-43ea-9397-1907fdc0ff46)
+
+- **There is a correlation between the number of views and the number of interactions** (likes and comments).
+- **Short videos tend to get more interactions than long videos.**
 - Most-viewed videos tend to have an average title length of 30-70 characters. **Titles with the most popular words such as **body, full, workout, hiit** tend to have more views than other types of titles**, except for two channels growingannanas and fitness_kaykay
 - Most videos have between 20 and 40 tags. **There is no clear correlation between number of tags and number of views**.
 - **Videos are usually uploaded on Mondays and Wednesdays**. Friday and Saturday are not the popular time to post a new video.
